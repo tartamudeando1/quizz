@@ -1,3 +1,4 @@
+
 criaCartão('quimica','Assinale a alternativa que indica apenas materiais constituídos de Carbono. ( responda com base no video explicativo)','Fibra de carbono, combustíveis, carvão, grafite e diamante' )
 
 criaCartão('quimica','Como é a distribuição eletrônica do Carbono, seguindo os conceitos de Linus Pauling=','1s2; 2s2; 2p2' )
