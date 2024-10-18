@@ -55,7 +55,6 @@ footer{
     margin: 0.6rem;
     padding: 0.6rem;
     backface-visibility: hidden;
-    border-radius: 5%;
 }
 
 .conteudo-cartao p{
@@ -81,4 +80,5 @@ footer{
     color: var(--destaque);
     border: 2px solid var(--destaque);
     background-color: var(--cartao-verso);
+    border-radius: 5%;
 }
