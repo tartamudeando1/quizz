@@ -32,7 +32,7 @@ footer{
 
 .cartao{
     margin: 1rem;
-    height: 30rem;
+    height: 35rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
