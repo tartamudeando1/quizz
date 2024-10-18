@@ -81,9 +81,7 @@ footer{
     border: 2px solid var(--destaque);
     background-color: var(--cartao-verso);
     border-radius: 5%;
-
-}
-
-.resposta-cartao  p:last-child{
-    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
