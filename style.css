@@ -41,11 +41,14 @@ footer{
     text-align: center;
     height: 100%;
     color: var(--branco);
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .conteudo-cartao h3{
     position: absolute;
     text-align: left;
+    border: 1px solid var(--destaque);
     border-radius: 6rem;
     margin: 0.6rem;
     padding: 0.6rem;
