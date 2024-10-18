@@ -78,4 +78,5 @@ footer{
     font-weight: 700;
     color: var(--super-destaque);
     border: 2px solid var(--super-destaque);
+    background-color: var(--cartao-verso);
 }
