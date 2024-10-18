@@ -42,3 +42,16 @@ footer{
     height: 100%;
     color: var(--branco);
 }
+
+.conteudo-cartao h3{
+    position: absolute;
+    text-align: left;
+    border-radius: 6rem;
+    margin: 0.6rem;
+    padding: 0.6rem;
+}
+
+.conteudo-cartao p{
+    margin-top: 4rem;
+    padding: 2rem;
+}
