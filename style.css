@@ -50,10 +50,10 @@ footer{
 .conteudo-cartao h3{
     position: absolute;
     text-align: left;
-    border: 0.5px solid var(--destaque);
-    border-radius: 4rem;
-    margin: 0.4rem;
-    padding: 0.4rem;
+    border: 1px solid var(--destaque);
+    border-radius: 6rem;
+    margin: 0.6rem;
+    padding: 0.6rem;
     backface-visibility: hidden;
 }
 
