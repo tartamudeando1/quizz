@@ -44,6 +44,7 @@ footer{
     color: var(--branco);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
+    border-radius: 5%;
 }
 
 .conteudo-cartao h3{
