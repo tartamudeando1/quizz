@@ -2,8 +2,8 @@
     --fundo: #d8bfd8;
     --cartao-frente: #6a5acd;
     --cartao-verso: #483d8b;
-    --destaque: #ff4500;
-    --super-destaque:#fffb00;
+    --destaque: #fffb00;
+    
     --preto: #000000;
     --branco: #ffffff;
 }
@@ -76,7 +76,7 @@ footer{
 .resposta-cartao{
     transform: rotateY(180deg);
     font-weight: 700;
-    color: var(--super-destaque);
-    border: 2px solid var(--super-destaque);
+    color: var(--destaque);
+    border: 2px solid var(--destaque);
     background-color: var(--cartao-verso);
 }
