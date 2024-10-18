@@ -84,6 +84,6 @@ footer{
 
 }
 
-.resposta-cartao  p{
-    margin-top: 2rem;
+.resposta-cartao  p:last-child{
+    margin-top: 1rem;
 }
