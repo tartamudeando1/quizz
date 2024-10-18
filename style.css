@@ -52,8 +52,8 @@ footer{
     text-align: left;
     border: 1px solid var(--destaque);
     border-radius: 4rem;
-    margin: 0.6rem;
-    padding: 0.6rem;
+    margin: 0.4rem;
+    padding: 0.4rem;
     backface-visibility: hidden;
 }
 
