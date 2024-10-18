@@ -85,3 +85,7 @@ footer{
     align-items: center;
     justify-content: center;
 }
+
+.resposta-cartao p{
+    margin: 0;
+}
