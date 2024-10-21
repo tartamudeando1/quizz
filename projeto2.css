@@ -6,6 +6,8 @@
     
     --preto: #000000;
     --branco: #ffffff;
+    --sombra: #030c64;
+
 }
 
 body{
@@ -45,8 +47,10 @@ header a{
     background-color: var(--cartao-frente);
     padding: 40px;
     border: 1px solid var(--destaque);
+    transition: transform 0.2s;
+    box-shadow: 5px 5px 20px var(--sombra);
 }
 
 .conteudo-cartao:hover{
-    transform: scale(1.05);
+    transform: scale(1.02);
 }
